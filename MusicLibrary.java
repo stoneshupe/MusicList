@@ -14,6 +14,7 @@ public class MusicLibrary {
    */
   public void addSong (Song song)
   {
+  
   }
   
   /*
@@ -30,7 +31,7 @@ public class MusicLibrary {
    */
   public void Sort ()
   {
-     currentSortField = field;
+
   }
   
   /*
